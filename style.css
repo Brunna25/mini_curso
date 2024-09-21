@@ -1,0 +1,48 @@
+body{
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+
+}
+
+.navtar{
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+
+}
+
+.link{
+    display: flex;
+    background-color: aqua;
+}
+
+
+a{
+    text-decoration: nome;
+}
+
+.linkizinho{
+    text-decoration: nome;
+color: rgb(43, 226, 73);
+}
+
+
+#logo {
+    width: 10vh;
+}
+
+.main{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-around;
+}
+
+.text{
+display: flex;
+flex-direction: column;
+margin: 50px;
+justify-content: center;
+color: rgb(243, 129, 129);
+border-radius: 5px;
+color: azure;
+}
